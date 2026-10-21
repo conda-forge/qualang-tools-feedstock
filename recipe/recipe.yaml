@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: 0.21.1
+  version: "0.24.0"
 
 package:
   name: qualang-tools
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/q/qualang-tools/qualang_tools-${{ version }}.tar.gz
-  sha256: 098207389dcdbe9b0299b0a8da900eeaa258b9aa57e04ed0f7f2abea04ce39d4
+  sha256: 95baa17b514c3fdbd0b4956c82c65965e8a2d234f52340a9b86bc225a146f3fc
 
 build:
   number: 0
